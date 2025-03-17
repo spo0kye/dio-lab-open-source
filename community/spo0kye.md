@@ -12,7 +12,7 @@ Segurança da informação
 Engenharia reversa
 
 ## Habilidades
-<img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+<span><img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></span>
 <span><img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824"></span>
 <span><img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png"></span>
 <span><img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"></span>
