@@ -13,12 +13,12 @@ Engenharia reversa
 
 ## Habilidades
 <img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-<img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824">
-<img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png">
-<img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png">
-<img height="4%" width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
-<img height="4%" width="4%" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png">
-<img height="5%" width="3%" src="https://th.bing.com/th/id/R.b592b1154d25c072c104d331939dd67c?rik=dAxlNXf0CNaeTA&pid=ImgRaw&r=0">
+<span><img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824"></span>
+<span><img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png"></span>
+<span><img height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"></span>
+<span><img height="4%" width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></span>
+<span><img height="4%" width="4%" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png"></span>
+<span><img height="5%" width="3%" src="https://th.bing.com/th/id/R.b592b1154d25c072c104d331939dd67c?rik=dAxlNXf0CNaeTA&pid=ImgRaw&r=0"></span>
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
